@@ -48,7 +48,7 @@ This query sorts all countries by population in descending order and returns onl
 
 ## 📁 Project Files
 - `world db.sql` - The SQL file to set up the database.
-- `screenshots/` - The folder containing the result of each query.
+- `screenshots/` - The Pictures containing the result of each query.
 - `README.md` - This guide.
 
 ## 🎓 Part of My Bootcamp Journey
